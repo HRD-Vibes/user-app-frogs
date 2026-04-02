@@ -1,6 +1,0 @@
-name: frogs
-template: spa
-created_at: "2026-04-02T22:41:25.274Z"
-created_by: benp
-services:
-  - workers
